@@ -1,3 +1,6 @@
+live at 
+https://farzzn.github.io/Electric_Vehicle/
+
 # Electric Vehicle (EV) Search Compare
 
 Welcome to the Electric Vehicle (EV) Model Selector, a web application that allows users to filter and select electric vehicle models based on their preferences for vehicle type, price range, and driving range. It can also be used to compare different EV models for attributes such as Battery Size, Price, and Driving Range. This project is built using React and fetches data from an external source to provide users with information about various EV models.
